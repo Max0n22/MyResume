@@ -1,0 +1,292 @@
+body {
+    background-color: #E5E5E5;
+    padding: 40px;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.wraper {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #fff;
+    width: 1200px;
+    height: 1319px;
+    margin: 0 auto;
+
+}
+
+/* h2 {
+    font-size: 35px;
+
+} */
+
+/* About me */
+
+.my-proftsion {
+    margin-bottom: 18px;
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    /* margin-top: 142px; */
+}
+
+.project-item {
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.main-content {
+    margin-left: 88px;
+   
+}
+
+
+/* Sidebar */
+.sidebar {
+    width: 370px;
+    background-color: #E0EBFE;
+}
+
+.my-photo {
+    margin-top: 40px;
+    width: 273px;
+    height: 354px;
+}
+
+.contacts,
+.tech-skills {
+    margin: 48px 0 0 40px;
+}
+
+.sidebar-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 40px;
+}
+
+.contacts-type {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 8px;
+}
+
+.cocntacts-item {
+    margin: 0;
+}
+
+.cocntacts-email {
+    color: #2979FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.cocntacts-number {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.skils-list {
+    margin: 0;
+    padding: 0 0 0 56px;
+
+
+}
+
+.skils-list-item {
+    color: #6D9BF5;
+}
+
+.skils-list-text {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.soft-text {
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 40px;
+    margin-bottom: 8px;
+
+}
+
+.soft-point {
+    margin-left: 15px;
+    color: #6D9BF5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.soft-list {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    ;
+}
+
+
+/* Main content */
+.name {
+    color: #000;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 55px;
+    margin-top: 19px;
+    margin-bottom: 29px;
+}
+
+.letter {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    display: flex;
+    width: 525px;
+}
+
+.Block {
+    color: #000;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    margin: 0 0 8px 0;
+}
+
+.about-me {
+    margin-bottom: 64px;
+    margin-left: 0px;
+
+}
+
+
+.project-list {
+    padding: 0 0 0 12px;
+    margin: 0px;
+}
+
+.project-container {
+    margin-bottom: 48px;
+}
+
+.project-item-desk {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.project-item-link {
+    color: #005FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+.work-exp-cont {
+    margin-bottom: 44px;
+}
+
+.work-exp-pos {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.another-colour {
+    color: #6D9BF5;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.work-exp-pl {
+    margin-bottom: 16px;
+}
+
+.work-time {
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    margin-top: 11px;
+    margin-bottom: 0px;
+}
+
+.work-exp-points {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    
+    padding: 0 0 0 14px;
+
+}
+
+
+.work-exp-info {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.edu-plase {
+    color: #6D9BF5;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 0 12px 0
+}
+
+.edu-clas {
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 0 12px 0
+}
